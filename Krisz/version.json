@@ -1,5 +1,5 @@
 {
-    "version": "0.0.1",
-    "update": "noupdate,
-    "files": ["main.py", "rules.py", "updater.py", "stocks.py"]
+  "version": "0.0.1",
+  "update": "noupdate",
+  "files": ["main.py", "rules.py", "updater.py", "stocks.py"]
 }
